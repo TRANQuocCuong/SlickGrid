@@ -1,0 +1,12 @@
+/workspace/src/ECommerce.Core/bin/Release/net8.0/ECommerce.Core.deps.json
+/workspace/src/ECommerce.Core/bin/Release/net8.0/ECommerce.Core.dll
+/workspace/src/ECommerce.Core/bin/Release/net8.0/ECommerce.Core.pdb
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.AssemblyInfoInputs.cache
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.AssemblyInfo.cs
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.csproj.CoreCompileInputs.cache
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.sourcelink.json
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.dll
+/workspace/src/ECommerce.Core/obj/Release/net8.0/refint/ECommerce.Core.dll
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ECommerce.Core.pdb
+/workspace/src/ECommerce.Core/obj/Release/net8.0/ref/ECommerce.Core.dll
